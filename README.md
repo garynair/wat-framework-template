@@ -1,3 +1,5 @@
+![WAT Framework Template](docs/banner.png)
+
 # WAT Framework Template
 
 A minimal starter scaffold for building AI agent projects around three separated concerns:
